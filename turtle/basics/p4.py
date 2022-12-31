@@ -29,8 +29,6 @@ square(66)
 square(46)
 square(26)
 
-
-
 sqrfunc(6)
 sqrfunc(26)
 sqrfunc(46)

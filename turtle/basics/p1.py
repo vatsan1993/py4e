@@ -1,4 +1,4 @@
-# https://www.geeksforgeeks.org/turtle-programming-python/
+#
 # pythonturtle.org
 
 import turtle
