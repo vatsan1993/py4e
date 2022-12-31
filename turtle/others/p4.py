@@ -1,3 +1,5 @@
+# pyramid program
+
 import turtle
 # getting tutle window
 wn= turtle.Screen()
